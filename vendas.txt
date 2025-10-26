@@ -1,0 +1,8 @@
+vendedor, produto, valor_venda
+Alicia, tenis, 300
+Cauan, casaco, 150
+Alicia, jaqueta, 200
+Alicia, calca jeans, 150
+Cauan, saia, 90
+Leticia, jaqueta, 400
+
